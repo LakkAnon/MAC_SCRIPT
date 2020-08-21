@@ -134,7 +134,6 @@ else:
         print("[-] INTERFACE DOSENT SEEM TO EXIST!")
         sleep(2)
         exit(0)
-##MADE BY M3lvan##
 
 
 
